@@ -1,251 +1,123 @@
-# ⚛️ Front-end
+# Frameworks Front-end – Conteúdos da Disciplina
 
-<p align="center">
+Este repositório reúne materiais didáticos, conteúdos teóricos, planos de aula, apresentações, atividades e exercícios da disciplina **Frameworks Front-end**.
 
-![Frontend](https://img.shields.io/badge/Front--end-Development-4F46E5?style=for-the-badge)
-![Web](https://img.shields.io/badge/Web-Applications-0EA5E9?style=for-the-badge)
-![UI](https://img.shields.io/badge/User-Interface-14B8A6?style=for-the-badge)
-![Responsive](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
-![Education](https://img.shields.io/badge/Education-Technology-orange?style=for-the-badge)
-
-</p>
+O objetivo deste repositório é centralizar e organizar os conteúdos desenvolvidos ao longo da disciplina, servindo como apoio ao processo de ensino-aprendizagem, revisão dos conceitos, desenvolvimento de aplicações web e consulta acadêmica.
 
 ---
 
-# 💻 Sobre a Disciplina
+# 🎯 Objetivo da Disciplina
 
-A disciplina de **Front-end** tem como objetivo apresentar os fundamentos do desenvolvimento de aplicações web voltadas para a camada de interação com o usuário.
+A disciplina de **Frameworks Front-end** tem como finalidade desenvolver competências para a programação de aplicações web responsivas, utilizando tecnologias e frameworks modernos voltados ao desenvolvimento de interfaces para a internet.
 
-Durante a disciplina, são explorados conceitos relacionados à construção de interfaces modernas, organização de componentes, estilização, comportamento das páginas e integração entre diferentes recursos utilizados no desenvolvimento web.
-
-O foco está na criação de aplicações intuitivas, responsivas e de fácil manutenção, considerando boas práticas de desenvolvimento, experiência do usuário e evolução das tecnologias utilizadas no ecossistema Front-end.
+Ao longo da disciplina, o estudante aprenderá a configurar ambientes de desenvolvimento, utilizar frameworks para CSS e JavaScript, aplicar boas práticas de desenvolvimento Front-end e construir aplicações responsivas com foco na experiência do usuário.
 
 ---
 
-# 🎯 Objetivos Gerais
+# 📚 Conteúdos Abordados
 
-Ao longo da disciplina, busca-se desenvolver a capacidade de:
+Os materiais deste repositório estão organizados conforme o desenvolvimento da disciplina.
 
-- 💻 Construir interfaces para aplicações web;
-- 🎨 Desenvolver layouts organizados e funcionais;
-- 📱 Criar aplicações adaptáveis a diferentes dispositivos;
-- ⚙️ Compreender o funcionamento da camada Front-end;
-- 🚀 Aplicar boas práticas de desenvolvimento;
-- 🧩 Organizar projetos de forma estruturada;
-- 🤝 Trabalhar de forma colaborativa.
+## Tecnologias Front-end
 
----
+- Conceitos de desenvolvimento Front-end
+- Responsividade
+- Ferramentas do desenvolvedor
+- Conceitos de Framework
 
-# 🧠 Competências Desenvolvidas
+## Framework para CSS
 
-| Competência | Descrição |
-|-------------|-----------|
-| 💡 Lógica | Compreensão do funcionamento das interfaces |
-| 🎨 Design | Organização visual de aplicações |
-| 💻 Desenvolvimento | Construção de aplicações Front-end |
-| 📱 Responsividade | Adaptação para diferentes resoluções |
-| ⚡ Performance | Otimização da experiência do usuário |
-| 🤝 Colaboração | Desenvolvimento em equipe |
-| 🔄 Manutenção | Evolução contínua de aplicações |
-| 🚀 Inovação | Aplicação de soluções modernas |
+- Definição
+- Instalação
+- Configuração
+- Utilização
 
----
+## Framework para Front-end
 
-# 📚 Temas Abordados
-
-Os conteúdos da disciplina podem envolver temas como:
-
-- 🌐 Desenvolvimento Front-end
-- 🧩 Componentização
-- 🎨 Estilização de Interfaces
-- 📱 Responsividade
-- ⚡ Interatividade
-- 🖥️ Estruturação de Aplicações
-- 🔄 Manipulação da Interface
-- 📦 Organização de Projetos
-- 🌍 Consumo de Dados
-- 🔗 Integração com Serviços
-- ♿ Acessibilidade
-- 📈 Performance
-- 🧪 Testes
-- 🚀 Publicação de Aplicações
+- Definição
+- Configuração do ambiente
+- Gerenciamento de pacotes (NPM)
+- Rotas
+- Componentes
+- Propriedades
+- Estados
 
 ---
 
-# 🛠️ Ferramentas e Recursos
+# 💡 Capacidades Desenvolvidas
 
-A disciplina pode utilizar diferentes recursos tecnológicos para apoiar o desenvolvimento.
+Ao final da disciplina espera-se que o estudante seja capaz de:
 
-| Categoria | Exemplos |
-|------------|----------|
-| 💻 Editores de Código | IDEs e editores modernos |
-| 🌐 Navegadores | Ferramentas para desenvolvimento e testes |
-| 📦 Gerenciadores | Dependências e pacotes |
-| 🔀 Versionamento | Controle de versões |
-| ☁️ Hospedagem | Plataformas para publicação |
-| 📚 Documentação | Guias e referências técnicas |
+- Configurar ambientes de desenvolvimento para aplicações Web;
+- Aplicar tecnologias Front-end na construção de interfaces;
+- Elaborar códigos seguindo boas práticas e convenções de desenvolvimento;
+- Definir frameworks adequados às necessidades do projeto;
+- Desenvolver aplicações web responsivas considerando princípios de UX.
 
----
+Além das competências técnicas, serão desenvolvidas competências relacionadas à:
 
-# 🏗️ Fluxo Geral de Desenvolvimento
-
-```text
-Planejamento
-      │
-      ▼
-Desenvolvimento
-      │
-      ▼
-Estilização
-      │
-      ▼
-Interatividade
-      │
-      ▼
-Testes
-      │
-      ▼
-Publicação
-      │
-      ▼
-Evolução Contínua
-```
+- Ética profissional;
+- Pensamento crítico e inovação;
+- Resolução de problemas complexos.
 
 ---
 
-# 🎓 Metodologia
+# 🧑‍🏫 Metodologia
 
-A disciplina privilegia atividades práticas e o desenvolvimento progressivo de aplicações.
+Os conteúdos deste repositório refletem as metodologias adotadas na disciplina, tais como:
 
-As estratégias podem incluir:
-
-- 📖 Aulas expositivas;
-- 💻 Laboratórios;
-- 🧩 Desafios técnicos;
-- 🚀 Desenvolvimento de projetos;
-- 🤝 Trabalho colaborativo;
-- 📚 Estudos dirigidos;
-- 🔍 Análise de soluções existentes;
-- 💬 Discussões técnicas.
+- Aulas expositivas;
+- Demonstrações práticas;
+- Desenvolvimento de aplicações;
+- Exercícios individuais e em grupo;
+- Estudos de caso;
+- Atividades em laboratório;
+- Projetos práticos;
+- Avaliações teóricas e práticas.
 
 ---
 
-# 📊 Avaliação
+# 📝 Avaliação
 
-O desenvolvimento do estudante poderá ser acompanhado considerando diferentes aspectos.
+A avaliação da disciplina seguirá a distribuição estabelecida para as unidades curriculares dos Cursos Superiores de Tecnologia e Bacharelado:
 
-| Aspecto | Objetivo |
-|----------|----------|
-| 💻 Desenvolvimento das atividades | Aplicação prática |
-| 🚀 Projetos | Consolidação do aprendizado |
-| 📚 Evolução | Desenvolvimento das competências |
-| 🤝 Participação | Colaboração nas atividades |
-| ⚙️ Qualidade Técnica | Aplicação das boas práticas |
+- **55%** — Avaliação Docente;
+- **35%** — Projeto Integrador;
+- **10%** — Autoavaliação.
 
 ---
 
-# 📂 Organização do Repositório
+# 📖 Referências Bibliográficas
 
-```text
-📁 materiais/
-📁 exemplos/
-📁 atividades/
-📁 projetos/
-📁 desafios/
-📁 recursos/
-📁 imagens/
-📄 README.md
-```
+## Bibliografia Básica
 
----
+- SOUZA, Natan. **Bootstrap 4: conheça a biblioteca front-end mais utilizada no mundo**.
+- MACHADO, Kheronn Khennedy. **Angular 11 e Firebase: construindo uma aplicação integrada com a plataforma do Google**.
+- EIS, Diego. **Guia Front-end: o caminho das pedras para ser um desenvolvedor Front-end**.
 
-# 🔄 Ciclo de Desenvolvimento Front-end
+## Bibliografia Complementar
 
-| Etapa | Finalidade |
-|--------|------------|
-| 📋 Planejamento | Organização da solução |
-| 🧱 Estruturação | Construção da aplicação |
-| 🎨 Interface | Desenvolvimento visual |
-| ⚙️ Funcionalidade | Implementação dos comportamentos |
-| 🧪 Validação | Testes e verificações |
-| 🚀 Implantação | Disponibilização da aplicação |
-| 🔄 Evolução | Melhorias contínuas |
+- GONÇALVES, Edson. **Desenvolvendo Aplicações Web com JSP, Servlets, JavaServer Faces, Hibernate, EJB 3 Persistence e Ajax**.
+- HARTCOPP, Patrícia Ferreira. **Métrica Web**.
+- NIEDERAUER, Juliano. **Desenvolvendo Websites com PHP**.
+- PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. **Design de Interação: além da interação Homem-Computador**.
+- SOUSA, Roque Fernando Marcos. **Canvas HTML5: composição gráfica e interatividade na Web**.
 
 ---
 
-# 📌 Boas Práticas
+# 📌 Público-alvo
 
-Este repositório incentiva:
+Este repositório é destinado a:
 
-- ✅ Código limpo
-- ✅ Componentização
-- ✅ Organização de arquivos
-- ✅ Responsividade
-- ✅ Reutilização de código
-- ✅ Versionamento
-- ✅ Documentação
-- ✅ Acessibilidade
-- ✅ Performance
-- ✅ Manutenção simplificada
+- Estudantes da área de Tecnologia da Informação;
+- Estudantes de cursos superiores de tecnologia;
+- Docentes da área de Computação;
+- Profissionais interessados em desenvolvimento Front-end e aplicações Web.
 
 ---
 
-# 🌱 Competências Esperadas
+# ⚠️ Observações
 
-Ao concluir a disciplina, espera-se que o estudante desenvolva habilidades relacionadas a:
+Os conteúdos disponibilizados neste repositório possuem finalidade exclusivamente educacional e acompanham o desenvolvimento da disciplina.
 
-| Área | Competência |
-|------|-------------|
-| 💻 Desenvolvimento | Construção de interfaces |
-| 🎨 Design | Organização visual |
-| ⚡ Performance | Otimização de aplicações |
-| 🔄 Arquitetura | Estruturação de projetos |
-| 🤝 Colaboração | Trabalho em equipe |
-| 🚀 Evolução | Aprendizagem contínua |
-
----
-
-# 📖 Materiais de Apoio
-
-Os estudos podem ser complementados por diferentes fontes de conhecimento:
-
-- 📘 Livros
-- 📄 Artigos técnicos
-- 🌐 Documentações oficiais
-- 🎥 Videoaulas
-- 💬 Comunidades de desenvolvimento
-- 🧪 Projetos de referência
-- 📚 Guias e tutoriais
-
----
-
-# 🌍 Importância do Front-end
-
-O desenvolvimento Front-end representa a camada responsável pela interação entre o usuário e uma aplicação digital.
-
-Mais do que construir interfaces, envolve criar experiências intuitivas, acessíveis, eficientes e agradáveis, considerando aspectos técnicos, visuais e funcionais.
-
-O aprendizado contínuo é parte essencial dessa área, acompanhando a constante evolução das tecnologias e das necessidades dos usuários.
-
----
-
-# 📚 Organização Geral
-
-| Item | Informação |
-|------|------------|
-| 🎓 Área | Desenvolvimento de Software |
-| 💻 Foco | Desenvolvimento Front-end |
-| 🌐 Contexto | Aplicações Web |
-| 🤝 Metodologia | Aprendizagem Ativa |
-| 🚀 Abordagem | Teórico-Prática |
-| 📈 Evolução | Contínua |
-
----
-
-<div align="center">
-
-## ⚛️ *Interfaces conectam pessoas à tecnologia.*
-
-**Desenvolver aplicações Front-end é transformar ideias em experiências digitais eficientes, acessíveis e intuitivas, unindo criatividade, arquitetura e tecnologia para criar soluções que geram valor aos usuários.**
-
-</div>
+Os materiais poderão ser atualizados ao longo do semestre conforme o planejamento didático, os objetivos de aprendizagem e as referências bibliográficas adotadas.
