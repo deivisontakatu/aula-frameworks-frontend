@@ -105,14 +105,30 @@ A avaliação da disciplina seguirá a distribuição estabelecida para as unida
 
 ---
 
-# 📌 Público-alvo
+## 🗓️ Previsão das Aulas
 
-Este repositório é destinado a:
-
-- Estudantes da área de Tecnologia da Informação;
-- Estudantes de cursos superiores de tecnologia;
-- Docentes da área de Computação;
-- Profissionais interessados em desenvolvimento Front-end e aplicações Web.
+| Aula | Conteúdo                                                |
+| :--: | ------------------------------------------------------- |
+|  01  | Apresentação da Disciplina e Ecossistema Front-end      |
+|  02  | Configuração do Ambiente de Desenvolvimento             |
+|  03  | Responsividade e Ferramentas do Desenvolvedor           |
+|  04  | Frameworks CSS                                          |
+|  05  | Projeto Integrador (PII) – Planejamento da Interface    |
+|  06  | Introdução aos Frameworks Front-end                     |
+|  07  | Estrutura de um Projeto Front-end                       |
+|  08  | Componentes e Propriedades                              |
+|  09  | Projeto Integrador (PII) – Desenvolvimento da Interface |
+|  10  | Estados e Eventos                                       |
+|  11  | Rotas e Navegação                                       |
+|  12  | Autoavaliação Institucional                             |
+|  13  | Projeto Integrador (PII) – Integração dos Componentes   |
+|  14  | Boas Práticas no Desenvolvimento Front-end              |
+|  15  | Avaliação Integradora                                   |
+|  16  | Publicação e Deploy de Aplicações                       |
+|  17  | Preparação das Apresentações do Projeto                 |
+|  18  | Bancas do Projeto Integrador e Autoavaliação Discente   |
+|  19  | Tendências em Desenvolvimento Front-end                 |
+|  20  | Revisão Geral e Encerramento da Disciplina              |
 
 ---
 
